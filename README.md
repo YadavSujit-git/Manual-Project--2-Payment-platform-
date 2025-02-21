@@ -1,4 +1,4 @@
-# Manual-Project--2-Payment-platform-
+# Manual-Project--2-Payment-platform- Website : https://dmoney-web.vercel.app/
 This project contains test cases, scenarios, reports,  for the digital payment platform Dmoney. It serves as a comprehensive resource for manual testers to effectively plan, execute, and track their testing efforts.
 Why was this project created?
 
