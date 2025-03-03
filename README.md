@@ -73,6 +73,7 @@ A user updating their account profile and settings.
 The reports section contains various test reports generated during the manual testing process. These reports may include:
 
 Defect Reports (Listing all identified bugs, their severity, and resolution status)
+Note : The website is now not working as these project was done in the year May 2024 
 
 Test Execution Reports (Tracking test cases executed, passed, and failed)
 
